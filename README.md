@@ -19,11 +19,11 @@ Welcome to my GitHub repository showcasing my Exploratory Data Analysis (EDA) pr
 - Objective: Select a representative sample of establishments in Silicon Valley for comparison.
 - Methodology: Compared data from Reference USA and Orbis databases, focusing on geographic precision.
 - Outcome: Determined that Reference USA provided more precise geographic data​​.
-### Task 5: Signal Pattern of Raw Pings
+### Task 5: [Signal Pattern of Raw Pings](signal_pattern.ipynb)
 - Objective: Statistically describe the signal pattern to identify jumping points and verify Veraset accuracy.
 - Methodology: Analyzed bivariate distributions, calculated the share of jumping moves, and examined how Veraset handles such data.
 - Outcome: Gained insights into the accuracy of geohash levels for movement matching​​.
-### Task 6: Signal Pattern of Work
+### Task 6: [Signal Pattern of Work](signal_pattern_work.ipynb)
 - Objective: Explore different patterns of work-related visits.
 - Methodology: Analyzed duration distributions for two types of work visits – those labeled by Veraset and those imputed based on visit duration.
 - Outcome: Developed an understanding of visit patterns during work hours​​.
