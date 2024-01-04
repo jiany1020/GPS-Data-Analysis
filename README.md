@@ -1,4 +1,4 @@
-# GPS-Data-Analysis
+# GPS-Data-Analysis-of-User-Behavior
 ## Overview
 Welcome to my GitHub repository showcasing my Exploratory Data Analysis (EDA) project on a GPS dataset, completed during my research assistantship at UNC. This project aimed to uncover intricate patterns in GPS data, offering insights into user behavior and movement. Below is an overview of the tasks and methodologies I employed in this analysis.
 
